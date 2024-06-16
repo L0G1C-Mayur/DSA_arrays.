@@ -23,5 +23,7 @@ public class Binary_search {
         int key = 7;
 
         System.out.println("key found at : " + search(arr, key));
+
+        
     }
 }
