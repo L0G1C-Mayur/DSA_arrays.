@@ -1,4 +1,4 @@
-public class binary_search {
+public class Binary_search {
         public static int search (int arr[], int key){
             int start = 0;
             int end = arr.length;
